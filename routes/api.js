@@ -7,7 +7,7 @@ const intFood = [
   {
     id: 01,
     country: ,
-    ingredients: ,
+    description: ,
     
   },
   {
