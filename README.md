@@ -52,16 +52,14 @@ Explain our website
 
 ### Dependencies *****
 
-- [bcrypt](https://www.npmjs.com/package/bcrypt) A library to help you hash passwords.
+
 - [dotenv](https://www.npmjs.com/package/dotenv) to load environment variables
 - [ejs](https://www.npmjs.com/package/ejs) In order to work with javascript templates to generate dynamic pages
-- [email-validator](https://www.npmjs.com/package/email-validator) A simple module to validate an e-mail address.
 - [express](https://www.npmjs.com/package/express) Framework to handle the server side routing
 - [express-flash](https://www.npmjs.com/package/express-flash) Flash Messages for your Express Application
 - [express-session](https://www.npmjs.com/package/express-session) Creating a session middleware for login
 - [mongoose](https://www.npmjs.com/package/mongoose) Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.
-- [passport](https://www.npmjs.com/package/passport) Simple, unobtrusive authentication for Node.js.
-- [passport-local](https://www.npmjs.com/package/passport-local) Local username and password authentication strategy for Passport.
+
 
 ---
 
@@ -74,13 +72,13 @@ Explain our website
 - Hero Image [Adam Jaime](https://unsplash.com/@arobj) from [Unsplash](https://unsplash.com/photos/dmkmrNptMpw)
   - [Unsplash License](https://unsplash.com/license)
 
-- Cocktail Images by [Isabella Mendes](https://www.pexels.com/@isabella-mendes-107313)
+- l Images by [](https://www.pexels.com/@isabella-mendes-107313)
 
-- Cocktail Images by [Charlotte May](https://www.pexels.com/@charlotte-may)
+-Images by [](https://www.pexels.com/@charlotte-may)
 
-- Cocktail Images by [Geraud Pfeiffer](https://www.pexels.com/@geraud-pfeiffer)
+-Images by [](https://www.pexels.com/@geraud-pfeiffer)
 
-- Cocktail pictures from API [The Cocktail DB](https://www.thecocktaildb.com/api.php)
+-pictures from API [](https://www.thecocktaildb.com/api.php)
 
 ---
 
@@ -94,44 +92,25 @@ Explain our website
 
 - [Google Fonts](https://fonts.google.com/?preview.text_type=custom) used: Monsterrat & Roboto, [Privacy Policy](https://policies.google.com/privacy?hl=en)
 
-- [Cocktail API](https://www.thecocktaildb.com/api.php)
-
 # Group Charter
 
 ---
 
 ## Mysia
-
-- Set Routes
-- Created JSON end points
-- Created Schemas
-- Created Seeds
-- Populated DB
-- Created special Features - Pagination, Log-in, authentication
-- Refactored some ejs/front-end js
+- ``Full stack support``
+- Markdown's edition
+- Made group charter
+- Editing images (squoosh)
 
 ## James
 
-- Hamburger Menu.
-- ejs file
-- fetch
-- js files
-
+- ``FrontEnd:``
+  - static pages;
+  - fancy features;
+  - JS endpoints;
+  - CSS Styling
 > ## Jean Marc
 
-- CSS Styling with Erica
-- Helped with populating DB
-- Organized due dates and schedule for group
-- Made SVG's for the login, register and subscribe forms; as well as search magnifying glass
-- Refactored some ejs/mjs
-- Mobile Friendliness
-- Made group charter
+- ``Backend``
 
-
-
-- CSS Styling with Kyle
-- Home page, gallery page, team page, error page
-- Logo and error SVG/PNG's, and found pictures
-- Edit images
-- Helped with ejs files
 
