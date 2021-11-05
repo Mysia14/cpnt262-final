@@ -97,10 +97,11 @@ Explain our website
 ---
 
 ## Mysia
+
 - ``Full stack support``
-- Markdown's edition
-- Made group charter
-- Editing images (squoosh)
+  - Markdown's edition
+  - Made group charter
+  - Editing images (squoosh)
 
 ## James
 
@@ -109,8 +110,11 @@ Explain our website
   - fancy features;
   - JS endpoints;
   - CSS Styling
-> ## Jean Marc
+  - And +
+
+## Jean Marc
 
 - ``Backend``
+  - Mongoose and +
 
 
