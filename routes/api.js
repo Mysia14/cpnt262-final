@@ -1,27 +1,31 @@
-/*********************/
 /* Define data array */
-/*********************/
 
 const intFood = [
-  // Item 1
+
   {
     id: 01,
-    country: ,
-    description: ,
-    
+    name: '',
+    description: '',
+    imageSrc: '',
+    width: '',
+    height: ''
   },
   {
     id: 02,
-    country: ,
-    ingredients: ,
-    
+    name: '',
+    description: '',
+    imageSrc: '',
+    width: '',
+    height: ''
   },
   {
     id: 03,
-    country: ,
-    ingredients: ,
-    
-  }
+    name: '',
+    description: '',
+    imageSrc: '',
+    width: '',
+    height: ''
+  },
 ]
 
 module.exports = intFood
